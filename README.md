@@ -127,7 +127,7 @@ The following checks were performed on these signatures:
 ```
 
 
-### What ** is not ** production ready?
+### What ***is NOT*** production ready?
 
 While parts of `cosign` are stable, we are continuing to experiment and add new features.
 The following feature set is not considered stable yet, but we are committed to stabilizing it over time!
